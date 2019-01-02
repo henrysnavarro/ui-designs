@@ -7,5 +7,5 @@ A collection of user interface designs I developed through the years
 
 <img src="https://github.com/henrysnavarro/ui-designs/blob/master/sendalimobileapp.png" width="300">
 
-<img src="https://github.com/henrysnavarro/ui-designs/blob/master/tennismatch-scoreboard.png width="300">
+<img src="https://github.com/henrysnavarro/ui-designs/blob/master/tennismatch-scoreboard.png" width="300">
 
